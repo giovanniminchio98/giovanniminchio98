@@ -26,3 +26,17 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com?user=giovanniminchio98&theme=slateorange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="giovanniminchio98"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=giovanniminchio98&bg_color=35393E&color=FBA628&line=FBA628&point=FFFFFF&area_color=FBA628&hide_border=true&area=true)](https://github.com/piero24" alt="giovanniminchio98"/>
 </div>
+
+
+<h1> About me </h1>
+My Linkedin profile :<br>
+
+    https://www.linkedin.com/in/giovanni-minchio-6958a61b2
+
+My blog (not used as I would), sometimes I write articles. The most are about things I've struggled to do ( a few about personal interest). <br>
+
+    https://www.giomin.com/
+
+My GitHub : <br>
+
+    if you are here it means you already found it :)
