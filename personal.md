@@ -7,3 +7,5 @@
 
 [Darknet diaries](https://darknetdiaries.com/)
 
+[10fingers - type exercies](https://10fastfingers.com/)
+
