@@ -5,3 +5,5 @@
 
 [cyclomatic complexity: new!](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
 
+[Darknet diaries](https://darknetdiaries.com/)
+
