@@ -9,3 +9,5 @@
 
 [10fingers - type exercies](https://10fastfingers.com/)
 
+[azure products - main page](https://dev.azure.com/)
+
