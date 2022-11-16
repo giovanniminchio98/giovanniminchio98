@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <h1> About me </h1>
 My Linkedin profile :<br>
 
-    https://www.linkedin.com/in/giovanni-minchio-6958a61b2
+<a href="https://www.linkedin.com/in/giovanni-minchio-6958a61b2">Linkedin</a>
 
 My blog (not used as I would), sometimes I write articles. The most are about things I've struggled to do ( a few about personal interest). <br>
 
-    https://www.giomin.com/
+<a href="https://www.giomin.com/">My website</a>
 
 My GitHub : <br>
 
