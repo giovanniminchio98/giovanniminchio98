@@ -11,3 +11,5 @@
 
 [azure products - main page](https://dev.azure.com/)
 
+[software dev ops book to read !](https://www.google.com/search?q=rapid+development+taming+wild+software+schedules)
+
