@@ -15,3 +15,12 @@
 
 [about git fork software -- try it](https://git-fork.com/)
 
+## ABOUT CONTINUOUS INTEGRATION W AZURE PIPELINES
+
+[git keep and usage](https://www.google.com/search?q=git+keep+file+for+folder+in+git&rlz=1C1ONGR_enBE980BE1021&oq=git+keep+file+for+folder+in+git&aqs=chrome..69i57j69i64.4858j0j4&sourceid=chrome&ie=UTF-8)
+
+ABOUT AUTOMATION
+
+[ansible](https://www.google.com/search?q=ansible&rlz=1C1ONGR_enBE980BE1021&oq=ancibal)
+
+[teraform](https://www.google.com/search?q=terraform+what+is+used+for)
