@@ -24,3 +24,9 @@ ABOUT AUTOMATION
 [ansible](https://www.google.com/search?q=ansible&rlz=1C1ONGR_enBE980BE1021&oq=ancibal)
 
 [teraform](https://www.google.com/search?q=terraform+what+is+used+for)
+
+## ABOUT CONTINUOUS DEPLOYMENT
+
+[release management](https://www.google.com/search?q=release+management)
+
+[continuous deployment](https://www.google.com/search?q=continuous+deployment)
