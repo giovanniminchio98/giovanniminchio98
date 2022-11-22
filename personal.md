@@ -30,3 +30,7 @@ ABOUT AUTOMATION
 [release management](https://www.google.com/search?q=release+management)
 
 [continuous deployment](https://www.google.com/search?q=continuous+deployment)
+
+## CI/CD - YAML file for configuraiton
+
+[Introduction to YAML](https://medium.com/@mohsinzaheer1992/everything-you-need-to-know-about-yaml-9df0600c7255)
