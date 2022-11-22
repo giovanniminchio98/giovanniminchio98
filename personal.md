@@ -42,3 +42,9 @@
 [design pattern in uml](https://www.developer.com/design/using-design-patterns-in-uml/)
 
 [factory method](https://cs.nyu.edu/~jcf/classes/g22.2440-001_sp06/slides/session8/g22_2440_001_c82.pdf)
+
+
+
+## VARIOUS...
+
+[Yale about Dante in translation](https://oyc.yale.edu/italian-language-and-literature/ital-310)
