@@ -34,3 +34,7 @@ ABOUT AUTOMATION
 ## CI/CD - YAML file for configuraiton
 
 [Introduction to YAML](https://medium.com/@mohsinzaheer1992/everything-you-need-to-know-about-yaml-9df0600c7255)
+
+## ABOUT DESIGN PATTERNS
+
+[NYU Introduction to Patterns](https://cs.nyu.edu/~jcf/classes/g22.2440-001_sp10/handouts/IntroductionToPatterns.pdf)
