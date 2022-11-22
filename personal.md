@@ -19,7 +19,7 @@
 
 [git keep and usage](https://www.google.com/search?q=git+keep+file+for+folder+in+git&rlz=1C1ONGR_enBE980BE1021&oq=git+keep+file+for+folder+in+git&aqs=chrome..69i57j69i64.4858j0j4&sourceid=chrome&ie=UTF-8)
 
-ABOUT AUTOMATION
+==>ABOUT AUTOMATION
 
 [ansible](https://www.google.com/search?q=ansible&rlz=1C1ONGR_enBE980BE1021&oq=ancibal)
 
@@ -40,3 +40,5 @@ ABOUT AUTOMATION
 [NYU Introduction to Patterns](https://cs.nyu.edu/~jcf/classes/g22.2440-001_sp10/handouts/IntroductionToPatterns.pdf)
 
 [design pattern in uml](https://www.developer.com/design/using-design-patterns-in-uml/)
+
+[factory method](https://cs.nyu.edu/~jcf/classes/g22.2440-001_sp06/slides/session8/g22_2440_001_c82.pdf)
