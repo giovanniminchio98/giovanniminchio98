@@ -38,3 +38,5 @@ ABOUT AUTOMATION
 ## ABOUT DESIGN PATTERNS
 
 [NYU Introduction to Patterns](https://cs.nyu.edu/~jcf/classes/g22.2440-001_sp10/handouts/IntroductionToPatterns.pdf)
+
+[design pattern in uml] (https://www.developer.com/design/using-design-patterns-in-uml/)
