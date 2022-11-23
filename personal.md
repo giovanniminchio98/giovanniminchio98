@@ -59,3 +59,5 @@
 
 [Robert J Shiller nobel prize](https://www.google.com/search?q=robert+j+shiller+nobel+prize)
 
+[example static reflection in c#](https://www.c-sharpcorner.com/code/871/examples-of-reflection-in-c-sharp.aspx)
+
