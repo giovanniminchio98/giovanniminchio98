@@ -49,6 +49,8 @@
 
 [to show state machine graph from graphviz](http://webgraphviz.com/)
 
+[Observer and mediator](https://www.cs.unc.edu/~stotts/GOF/hires/disc5fso.htm)
+
 ## VARIOUS...
 
 [Yale about Dante in translation](https://oyc.yale.edu/italian-language-and-literature/ital-310)
