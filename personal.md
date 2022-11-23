@@ -43,6 +43,10 @@
 
 [factory method](https://cs.nyu.edu/~jcf/classes/g22.2440-001_sp06/slides/session8/g22_2440_001_c82.pdf)
 
+## ABOUT FINITE STATE MACHINES
+
+[MIT fnite state machine pdf](https://web.mit.edu/6.111/www/f2017/handouts/L06.pdf)
+
 
 
 ## VARIOUS...
@@ -52,3 +56,4 @@
 [about ozempic...](https://www.nytimes.com/2022/11/22/well/ozempic-diabetes-weight-loss.html?searchResultPosition=3)
 
 [Robert J Shiller nobel prize](https://www.google.com/search?q=robert+j+shiller+nobel+prize)
+
