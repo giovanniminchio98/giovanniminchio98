@@ -47,7 +47,7 @@
 
 [MIT fnite state machine pdf](https://web.mit.edu/6.111/www/f2017/handouts/L06.pdf)
 
-
+[to show state machine graph from graphviz](http://webgraphviz.com/)
 
 ## VARIOUS...
 
