@@ -61,3 +61,5 @@
 
 [example static reflection in c#](https://www.c-sharpcorner.com/code/871/examples-of-reflection-in-c-sharp.aspx)
 
+[add tabs in file explorer windows 11](https://pureinfotech.com/enable-tabs-file-explorer-windows-11/)
+
