@@ -51,4 +51,4 @@
 
 [about ozempic...](https://www.nytimes.com/2022/11/22/well/ozempic-diabetes-weight-loss.html?searchResultPosition=3)
 
-Robert J Shiller nobel prize](https://www.google.com/search?q=robert+j+shiller+nobel+prize)
+[Robert J Shiller nobel prize](https://www.google.com/search?q=robert+j+shiller+nobel+prize)
